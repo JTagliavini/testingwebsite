@@ -1,6 +1,6 @@
 ---
 title: Testing website
-timezone: America/Argentina/Buenos_Aires
+timezone: America/New_York
 collections:
   posts:
     title: Posts
