@@ -1,0 +1,14 @@
+---
+title: New post
+date: 2022-08-12 12:55:00 -04:00
+---
+
+**New post for the website**
+
+1. Welcome
+
+2. To
+
+3. The
+
+4. Post
